@@ -1,0 +1,73 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-image: url(https://umaine.edu/epscor/wp-content/uploads/sites/25/2017/09/Research-Oceans.jpg);
+       font-family: monospace;
+    }
+
+    header {
+        background-color:;
+        padding-left:300px;
+        font-size:20px ;
+        display: block;
+        width: 500px;
+        font-style: oblique;
+        border: 10px solid black;
+        margin-top: 15px
+    }
+    nav {
+        line-height:;
+        background-color:;
+        width:200px;
+        display: inline-block;
+        vertical-align: top;
+        border: 10px solid black;
+        margin: 15px;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color:black ;
+    }
+    .purple-background {
+      background-color: #80ced6;
+    }
+    .imagecatopus {
+      margin-left : 100px;
+    }
+    section {
+        width: 500px;
+        height: 400px;
+        display: inline-block;
+        border: 10px solid black;
+        margin: 30px;
+
+    }
+    aside {
+      width: 200px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:#77a8a8;
+      font-size: ;
+      border: 10px solid black;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 750px;
+        background-color:;
+        text-align:;
+        padding:15px;
+        display: block;
+        border: 10px solid black;
+}

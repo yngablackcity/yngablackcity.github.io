@@ -1,0 +1,106 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       max-width: 100%;
+       height: 100%;
+       background-color: #48B9E5
+    }
+
+    header {
+        background: url(http://csszengarden.com/210/sunlight.jpg);
+        padding-left: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin: 50px;
+        border: 5px solid blue;
+        font: 75% cursive, sans-serif;
+        font-style: italic;
+        font-size: 30px;
+        color: blue;
+        display: block;
+    }
+    #pics {
+      margin-left: 15%;
+      margin-right: 10%;
+      border: 5px;
+    }
+    h2 {
+      padding-left: 50px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin: 50px;
+      font-family: cursive;
+      font-size: 15pt;
+      color: #211F7F;
+    }
+    #home {
+      margin-left: 30%;
+      margin-right: 10%;
+    }
+    h3 {
+      margin-left: 15%;
+      margin-right: 10%;
+      font-family: cursive;
+      font-size: 12pt;
+      color: #C64F1A;
+    }
+    h4 {
+      margin-left: 15%;
+      margin-right: 10%;
+      font-family: cursive;
+      font-size: 12pt;
+      color: #0C1B7F;
+    }
+    nav {
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding-left: 350px ;
+        font: 75% cursive, sans-serif;
+        font-size: 35px;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    section {
+        width: 100%;
+        display: inline-block;
+        float: none;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    p {
+        font-family: helvetica;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+}
